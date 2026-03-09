@@ -1,0 +1,2 @@
+# ejerciciosGitHub
+practicas github scrum
