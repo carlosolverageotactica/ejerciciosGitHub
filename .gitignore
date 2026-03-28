@@ -1,0 +1,6 @@
+# Environment variables (never commit secrets)
+.env
+
+# Docker volumes (if mounted locally)
+postgres_data/
+pgadmin_data/
